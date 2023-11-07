@@ -18,3 +18,11 @@
 ## picom（渐入渐出透明效果）
 
 > 直接apt install picom即可，配置文件放在~/.config/picom/picom.conf
+
+## fish
+
+> fish和kitty使用主题均是dracula风格
+
+## Kitty
+
+使用字体：[JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts)
