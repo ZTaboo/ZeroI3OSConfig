@@ -1,7 +1,4 @@
 if status is-interactive
-  and not set -q ZELLIJ
-  # exec tmux
-  # eval (zellij setup --generate-auto-start fish | string collect)
 end
 
 set PATH $PATH /home/zero/.local/bin /home/zero/.cargo/bin
